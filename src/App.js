@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       kavod
       Syeda
-      Amina
+     
     </div>
   );
 }
